@@ -2,10 +2,10 @@
 <widget id="net.hkmrchui.blog" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>香港小徐部落格</name>
     <description>
-        Hello World sample application that responds to the deviceready event.
+        用手機 App 睇 Blog 別有一番風味.
     </description>
-    <author email="support@phonegap.com" href="http://phonegap.com">
-        PhoneGap Team
+    <author email="support@imuslab.com" href="http://imuslab.com">
+        IMUS Laboratory
     </author>
     <content src="index.html" />
     <preference name="DisallowOverscroll" value="true" />
